@@ -36,7 +36,7 @@ Notes during the interview:
 
 - 20 researchers in a team
 - Potential roles: researcher within analytics, software engieer, applied scientist (data science + engineer)
-- 4-6 people, over the course of week, 60~90 days, with the team itself (30~40 mminutes / technical), technical levels (60~75 minutes)
+- 4-6 people, over the course of week, 60 ~ 90 days, with the team itself (30 ~ 40 mminutes / technical), technical levels (60 ~ 75 minutes)
 
 Q&A
 - Mentorship 
