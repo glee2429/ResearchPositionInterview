@@ -1,6 +1,8 @@
 Thursday, March 25th, 2021
 ### Company: Microsoft Research Lab
-#### Group: Data Management, Exploration and Mining (DMX), Systems Research Group
+#### Group: 
+##### Data Management Exploration and Mining (DMX): https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/
+##### Systems Research Group: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
 #### Position: 
 
 1. SDE - Systems Research Group - Microsoft Research
@@ -27,3 +29,18 @@ Thursday, March 25th, 2021
 - For Summer 20201, I have an internship offer from the same e-commerce company, this time as a Backend Engineering, since I'm very interested in scalable data processing, so I'll be working on transaction management of the servers to ensure the conssitency and quality of data on the platform. 
 - However, after my graduation in December 2021, I would love to join a company where I can learn more about database applications and gain some research experinece. 
 - To that end, Microsoft would make a perfect place to launch my career!
+
+
+--------------------------------------------
+Notes during the interview: 
+
+- 20 researchers in a team
+- Potential roles: researcher within analytics, software engieer, applied scientist (data science + engineer)
+- 4-6 people, over the course of week, 60~90 days, with the team itself (30~40 mminutes / technical), technical levels (60~75 minutes)
+
+Q&A
+- Mentorship 
+- Performance assessment: not LOC / more individualized and holistic 
+
+Follow-up
+- Since the process usually takes up to 90 days, let's touchbase in fall to discuss in detail!
